@@ -1,0 +1,11 @@
+// ignore_for_file: public_member_api_docs, sort_constructors_first
+class AppConfig {
+  final String BASE_API_URL;
+  final String BASE_IMAGE_API_URL;
+  final String API_KEY;
+  AppConfig({
+    required this.BASE_API_URL,
+    required this.BASE_IMAGE_API_URL,
+    required this.API_KEY,
+  });
+}

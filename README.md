@@ -1,16 +1,16 @@
 # movie_app
+A complete REST API Flutter application using Flutter and Riverpod state management framework!
 
-A new Flutter project.
+A complete RESTful Application known as Flickd from zero to production-ready that you can release on the Google Play Store or iOS App Store. The application will display data regarding movies obtained from TheMovieDB website.
 
-## Getting Started
+WHAT DOES THE APP FEATURE?
 
-This project is a starting point for a Flutter application.
+An amazing UI and Splash Screen
 
-A few resources to get you started if this is your first Flutter project:
+Functionality to display results regarding popular and upcoming movies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Functionality to search movies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pagination, Authentication, state management
+
+State management using Flutter Riverpod
